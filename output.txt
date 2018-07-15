@@ -1,0 +1,740 @@
+@BEGIN::COMMAND_1
+Successfully added stadium: 1 | Hakufsa
+Failed to add new stadium
+Successfully added stadium: 2 | Beit_Kadur
+Successfully added stadium: 3 | Tebi
+Successfully added stadium: 4 | Sami_Hofer
+Successfully added stadium: 5 | Camp_No
+Successfully added stadium: 6 | Bermabeu
+Successfully added stadium: 7 | Testium
+@END::COMMAND_1
+@BEGIN::COMMAND_2
+Successfully added new team: 1 | FC_Beit_Shean
+Successfully added new team: 2 | FC_Beit_Shemesh
+Successfully added new team: 3 | FC_Beit_Hashmonai
+Successfully added new team: 4 | FC_Jerusalem_East
+Successfully added new team: 5 | FC_Nesher
+Failed to add new team
+Successfully added new team: 7 | FC_Menahem
+Successfully added new team: 8 | FC_Almahrum
+Successfully added new team: 9 | FC_Afula
+Failed to add new team
+Successfully added new team: 11 | FC_Jerusalem
+Successfully added new team: 12 | FC_Haifa
+Successfully added new team: 13 | FC_Menahum
+Successfully added new team: 14 | FC_Umm_al_Fahm
+Failed to add new team
+@END::COMMAND_2
+@BEGIN::COMMAND_3
+Successfully added coach: 1 | Eyal Haim
+Successfully added coach: 2 | Yaron Levi
+Successfully added coach: 3 | Gadi Melamed
+Successfully added coach: 4 | Roy Shefer
+Successfully added coach: 5 | Shimon Danon
+Successfully added coach: 6 | Doron Hen
+Successfully added coach: 7 | Salah Shabati
+Successfully added coach: 8 | Dvora Erez
+Successfully added coach: 9 | Leon Nahum
+Failed to add new coach
+Successfully added coach: 10 | Hoze Soel
+Failed to add new coach
+Successfully added coach: 11 | Hoze Rfeal
+Successfully added coach: 12 | Nidal Fahum
+Failed to add new coach
+Successfully added coach: 14 | Nidal Fahum
+@END::COMMAND_3
+@BEGIN::COMMAND_4
+Successfully added player: 300 | Asaf Lotz
+Successfully added player: 301 | Nader Naftali
+Failed to add new player
+Successfully added player: 302 | beni Mor
+Successfully added player: 303 | Nidal Naftali
+Successfully added player: 304 | Nitzan Cohen
+Successfully added player: 305 | beni Abu-Ahmad
+Successfully added player: 306 | Moshe Arkin
+Successfully added player: 307 | Moshe Yosef
+Successfully added player: 308 | Moshe Ben-Lulu
+Successfully added player: 309 | beni Abu-Ahmad
+Successfully added player: 310 | beni Mor
+Successfully added player: 311 | Eli Shvilli
+Successfully added player: 312 | Moshe Arkin
+Successfully added player: 313 | Nidal Arkin
+Successfully added player: 314 | Naftali Abu-Ahmad
+Successfully added player: 315 | Yossi Cohen
+Successfully added player: 316 | Eli Abu-Ahmad
+Successfully added player: 317 | Haim Yosef
+Successfully added player: 318 | beni Abu-Ahmad
+Successfully added player: 319 | beni Abu-Ahmad
+Successfully added player: 320 | Naftali Ben-Lulu
+Successfully added player: 321 | Avi Yosef
+Successfully added player: 322 | Haim Naftali
+Successfully added player: 323 | beni Ben-Lulu
+Successfully added player: 324 | Moshe Naftali
+Successfully added player: 325 | Nidal Abu-Ahmad
+Successfully added player: 326 | Naftali Yosef
+Successfully added player: 327 | beni Naftali
+Successfully added player: 328 | beni Ben-Lulu
+Successfully added player: 329 | Nitzan Naftali
+Successfully added player: 330 | Eli Yosef
+Successfully added player: 331 | beni Abu-Ahmad
+Successfully added player: 332 | beni Shvilli
+Successfully added player: 333 | Nidal Ben-Lulu
+Successfully added player: 334 | Haim Arkin
+Successfully added player: 335 | Nitzan Mor
+Successfully added player: 336 | Nitzan Shvilli
+Successfully added player: 337 | Avi Cohen
+Successfully added player: 338 | Nidal Mor
+Successfully added player: 339 | Haim Ben-Lulu
+Successfully added player: 340 | Nitzan Abu-Ahmad
+Successfully added player: 341 | Yossi Mor
+Successfully added player: 342 | Nidal Naftali
+Successfully added player: 343 | Naftali Ben-Gal
+Successfully added player: 344 | Avi Ben-Lulu
+Successfully added player: 345 | Naftali Sharvit
+Successfully added player: 346 | Nader Ben-Gal
+Successfully added player: 347 | Yossi Mor
+Successfully added player: 348 | Haim Naftali
+Successfully added player: 349 | Nitzan Mor
+Successfully added player: 350 | Nader Yosef
+Successfully added player: 351 | beni Abu-Ahmad
+Successfully added player: 352 | Nidal Ben-Gal
+Successfully added player: 353 | Nitzan Yosef
+Successfully added player: 354 | beni Yosef
+Successfully added player: 355 | Nidal Abu-Ahmad
+Successfully added player: 356 | beni Ben-Lulu
+Successfully added player: 357 | Nader Arkin
+Successfully added player: 358 | beni Sharvit
+Successfully added player: 359 | Haim Ben-Lulu
+Successfully added player: 360 | Avi Yosef
+Failed to add new player
+Failed to add new player
+@END::COMMAND_4
+@BEGIN::COMMAND_5
+Successfully added receptionist: 11 | Yarden Haim
+Successfully added receptionist: 12 | Daniel Levi
+Successfully added receptionist: 13 | Mor Melamed
+Successfully added receptionist: 14 | Rina Shefer
+Failed to add new receptionist
+Successfully added receptionist: 15 | Rika Danon
+Successfully added receptionist: 16 | Sivan Hen
+Failed to add new receptionist
+@END::COMMAND_5
+@BEGIN::COMMAND_6
+Successfully added customer: 000099991 | Gilad Levi
+Successfully added customer: 000099992 | Avi Vizman
+Successfully added customer: 000099993 | Dor Kam
+Successfully added customer: 000099994 | Shani Iluz
+Successfully added customer: 000099995 | Gabi Avni
+Failed to add new customer
+Successfully added customer: 000099997 | Elad Hen
+Successfully added customer: 000099998 | Shai Alush
+Successfully added customer: 000099999 | Ben Kim
+Failed to add new customer
+Successfully added customer: 000099911 | Viki Shefer
+Successfully added customer: 000099912 | Natali Hemo
+Successfully added customer: 000099913 | Shaked Lev
+Successfully added customer: 000099914 | Dan Himan
+Successfully added customer: 000099915 | Din Gal
+Failed to add new customer
+Successfully added customer: 000099916 | Don Roz
+Successfully added customer: 000099917 | Oshri Mimon
+Failed to add new customer
+Successfully added customer: 000099919 | Yossi Shabat
+Successfully added customer: 000099920 | Meira Levi
+Failed to add new customer
+Successfully added customer: 000099921 | Don Roz
+@END::COMMAND_6
+@BEGIN::COMMAND_7
+Successfully added coach: 1 to team 1
+Successfully added coach: 2 to team 2
+Successfully added coach: 3 to team 3
+Successfully added coach: 4 to team 4
+Failed to add coach to team
+Successfully added coach: 5 to team 5
+Failed to add coach to team
+Successfully added coach: 7 to team 7
+Failed to add coach to team
+Successfully added coach: 9 to team 9
+Failed to add coach to team
+Successfully added coach: 11 to team 11
+Successfully added coach: 12 to team 12
+Successfully added coach: 6 to team 13
+Failed to add coach to team
+Successfully added coach: 14 to team 14
+@END::COMMAND_7
+@BEGIN::COMMAND_8
+Successfully added player: 331 to team 1
+Successfully added player: 332 to team 1
+Successfully added player: 333 to team 3
+Successfully added player: 334 to team 4
+Successfully added player: 335 to team 5
+Failed to add player to team
+Successfully added player: 337 to team 7
+Successfully added player: 336 to team 8
+Failed to add player to team
+Failed to add player to team
+Failed to add player to team
+Successfully added player: 350 to team 12
+Successfully added player: 339 to team 13
+Failed to add player to team
+Successfully added player: 301 to team 1
+Failed to add player to team
+Successfully added player: 303 to team 1
+Successfully added player: 304 to team 2
+Failed to add player to team
+Failed to add player to team
+Successfully added player: 307 to team 2
+Successfully added player: 308 to team 2
+Successfully added player: 309 to team 3
+Successfully added player: 310 to team 3
+Successfully added player: 311 to team 3
+Successfully added player: 312 to team 3
+Failed to add player to team
+Failed to add player to team
+Successfully added player: 315 to team 4
+Successfully added player: 316 to team 4
+Successfully added player: 317 to team 4
+Failed to add player to team
+Successfully added player: 319 to team 5
+Successfully added player: 320 to team 5
+Failed to add player to team
+Successfully added player: 322 to team 5
+Failed to add player to team
+Successfully added player: 324 to team 7
+Successfully added player: 325 to team 7
+Successfully added player: 326 to team 7
+Failed to add player to team
+Successfully added player: 328 to team 7
+Successfully added player: 329 to team 8
+Successfully added player: 330 to team 8
+Successfully added player: 331 to team 8
+Successfully added player: 332 to team 8
+Failed to add player to team
+Successfully added player: 334 to team 9
+Successfully added player: 335 to team 9
+Successfully added player: 336 to team 9
+Successfully added player: 337 to team 9
+Successfully added player: 338 to team 9
+Successfully added player: 339 to team 1
+Failed to add player to team
+Successfully added player: 341 to team 14
+Successfully added player: 342 to team 14
+Failed to add player to team
+Successfully added player: 344 to team 11
+Successfully added player: 345 to team 11
+Successfully added player: 346 to team 11
+Successfully added player: 347 to team 11
+Failed to add player to team
+Successfully added player: 349 to team 12
+Failed to add player to team
+Successfully added player: 351 to team 12
+Successfully added player: 352 to team 12
+Successfully added player: 353 to team 12
+Successfully added player: 354 to team 13
+Successfully added player: 355 to team 13
+Successfully added player: 356 to team 13
+Successfully added player: 357 to team 13
+Failed to add player to team
+Failed to add player to team
+Failed to add player to team
+@END::COMMAND_8
+@BEGIN::COMMAND_9
+Successfully added player: 301 to team first players 1
+Successfully added player: 303 to team first players 1
+Successfully added player: 309 to team first players 3
+Successfully added player: 310 to team first players 3
+Successfully added player: 316 to team first players 4
+Successfully added player: 317 to team first players 4
+Successfully added player: 319 to team first players 5
+Successfully added player: 320 to team first players 5
+Failed to add player to team first players
+Failed to add player to team first players
+@END::COMMAND_9
+@BEGIN::COMMAND_10
+Successfully added receptionist: 11 to stadium 1
+Successfully added receptionist: 12 to stadium 2
+Successfully added receptionist: 13 to stadium 3
+Successfully added receptionist: 14 to stadium 4
+Successfully added receptionist: 15 to stadium 5
+Failed to add receptionist to stadium
+Successfully added receptionist: 16 to stadium 7
+Successfully added receptionist: 16 to stadium 1
+@END::COMMAND_10
+@BEGIN::COMMAND_11
+Successfully added subscription: 1 to customer 000099991
+Successfully added subscription: 2 to customer 000099992
+Successfully added subscription: 3 to customer 000099993
+Successfully added subscription: 4 to customer 000099994
+Successfully added subscription: 6 to customer 000099994
+Successfully added subscription: 7 to customer 000099911
+Successfully added subscription: 8 to customer 000099912
+Successfully added subscription: 9 to customer 000099913
+Successfully added subscription: 10 to customer 000099911
+Successfully added subscription: 11 to customer 000099912
+Successfully added subscription: 12 to customer 000099913
+Successfully added subscription: 13 to customer 000099991
+Successfully added subscription: 14 to customer 000099992
+Successfully added subscription: 15 to customer 000099993
+Successfully added subscription: 16 to customer 000099994
+Failed to add new subscription
+Successfully added subscription: 19 to customer 000099914
+Failed to add new subscription
+Successfully added subscription: 11 to customer 000099991
+Successfully added subscription: 12 to customer 000099991
+Failed to add new subscription
+Successfully added subscription: 14 to customer 000099991
+Successfully added subscription: 21 to customer 000099992
+Successfully added subscription: 22 to customer 000099992
+Successfully added subscription: 23 to customer 000099992
+Successfully added subscription: 24 to customer 000099992
+Successfully added subscription: 31 to customer 000099993
+Successfully added subscription: 32 to customer 000099993
+Successfully added subscription: 33 to customer 000099993
+Successfully added subscription: 34 to customer 000099993
+Successfully added subscription: 41 to customer 000099994
+Successfully added subscription: 42 to customer 000099994
+Successfully added subscription: 43 to customer 000099994
+Successfully added subscription: 44 to customer 000099994
+Failed to add new subscription
+Failed to add new subscription
+Failed to add new subscription
+Failed to add new subscription
+Successfully added subscription: 61 to customer 000099991
+Successfully added subscription: 62 to customer 000099991
+Successfully added subscription: 63 to customer 000099991
+Successfully added subscription: 64 to customer 000099991
+Successfully added subscription: 71 to customer 000099992
+Successfully added subscription: 72 to customer 000099992
+Successfully added subscription: 73 to customer 000099992
+Successfully added subscription: 74 to customer 000099992
+Successfully added subscription: 81 to customer 000099993
+Successfully added subscription: 82 to customer 000099993
+Successfully added subscription: 83 to customer 000099993
+Successfully added subscription: 84 to customer 000099993
+Successfully added subscription: 91 to customer 000099994
+Successfully added subscription: 92 to customer 000099994
+Successfully added subscription: 93 to customer 000099994
+Successfully added subscription: 94 to customer 000099994
+Failed to add new subscription
+Failed to add new subscription
+Failed to add new subscription
+Failed to add new subscription
+Successfully added subscription: 111 to customer 000099991
+Successfully added subscription: 112 to customer 000099991
+Successfully added subscription: 113 to customer 000099991
+Successfully added subscription: 114 to customer 000099991
+Successfully added subscription: 121 to customer 000099992
+Successfully added subscription: 122 to customer 000099992
+Successfully added subscription: 123 to customer 000099992
+Successfully added subscription: 124 to customer 000099992
+Successfully added subscription: 131 to customer 000099993
+Successfully added subscription: 132 to customer 000099993
+Successfully added subscription: 133 to customer 000099993
+Successfully added subscription: 134 to customer 000099993
+Successfully added subscription: 141 to customer 000099994
+Successfully added subscription: 142 to customer 000099994
+Successfully added subscription: 143 to customer 000099994
+Successfully added subscription: 144 to customer 000099994
+Failed to add new subscription
+Failed to add new subscription
+Failed to add new subscription
+Failed to add new subscription
+Successfully added subscription: 161 to customer 000099991
+Successfully added subscription: 162 to customer 000099991
+Successfully added subscription: 163 to customer 000099991
+Successfully added subscription: 164 to customer 000099991
+Successfully added subscription: 171 to customer 000099992
+Successfully added subscription: 172 to customer 000099992
+Successfully added subscription: 173 to customer 000099992
+Successfully added subscription: 174 to customer 000099992
+Successfully added subscription: 181 to customer 000099993
+Successfully added subscription: 182 to customer 000099993
+Successfully added subscription: 183 to customer 000099993
+Successfully added subscription: 184 to customer 000099993
+Successfully added subscription: 191 to customer 000099994
+Successfully added subscription: 192 to customer 000099994
+Successfully added subscription: 193 to customer 000099994
+Successfully added subscription: 194 to customer 000099994
+@END::COMMAND_11
+@BEGIN::COMMAND_12
+Failed to add match
+Successfully added match: 2 between 2 and 3
+Successfully added match: 3 between 3 and 5
+Successfully added match: 4 between 4 and 3
+Successfully added match: 5 between 5 and 1
+Failed to add match
+Successfully added match: 7 between 7 and 3
+Successfully added match: 10 between 8 and 1
+Successfully added match: 12 between 9 and 11
+Failed to add match
+Successfully added match: 14 between 11 and 4
+Failed to add match
+Successfully added match: 16 between 13 and 11
+Failed to add match
+Failed to add match
+Successfully added match: 18 between 2 and 4
+Failed to add match
+Successfully added match: 21 between 4 and 1
+@END::COMMAND_12
+@BEGIN::COMMAND_13
+Successfully added customer: 000099991 to match 2
+Successfully added customer: 000099992 to match 2
+Successfully added customer: 000099993 to match 2
+Successfully added customer: 000099994 to match 2
+Successfully added customer: 000099991 to match 3
+Successfully added customer: 000099992 to match 3
+Successfully added customer: 000099993 to match 3
+Successfully added customer: 000099994 to match 3
+Successfully added customer: 000099991 to match 4
+Successfully added customer: 000099992 to match 4
+Successfully added customer: 000099993 to match 4
+Successfully added customer: 000099994 to match 4
+Successfully added customer: 000099991 to match 5
+Successfully added customer: 000099992 to match 5
+Successfully added customer: 000099993 to match 5
+Successfully added customer: 000099994 to match 5
+Successfully added customer: 000099991 to match 7
+Successfully added customer: 000099992 to match 7
+Successfully added customer: 000099993 to match 7
+Successfully added customer: 000099994 to match 7
+Successfully added customer: 000099991 to match 12
+Successfully added customer: 000099992 to match 12
+Successfully added customer: 000099993 to match 12
+Successfully added customer: 000099994 to match 12
+Successfully added customer: 000099991 to match 14
+Successfully added customer: 000099992 to match 14
+Successfully added customer: 000099993 to match 14
+Successfully added customer: 000099994 to match 14
+Successfully added customer: 000099991 to match 16
+Successfully added customer: 000099992 to match 16
+Successfully added customer: 000099993 to match 16
+Successfully added customer: 000099994 to match 16
+Successfully added customer: 000099991 to match 18
+Successfully added customer: 000099992 to match 18
+Successfully added customer: 000099993 to match 18
+Successfully added customer: 000099994 to match 18
+Successfully added customer: 000099911 to match 4
+Successfully added customer: 000099912 to match 4
+Failed to add customer to match
+Failed to add customer to match
+Failed to add customer to match
+Successfully added customer: 000099912 to match 5
+Failed to add customer to match
+Failed to add customer to match
+Failed to add customer to match
+Failed to add customer to match
+Failed to add customer to match
+Successfully added customer: 000099914 to match 7
+Failed to add customer to match
+Failed to add customer to match
+Successfully added customer: 000099913 to match 12
+Failed to add customer to match
+Successfully added customer: 000099911 to match 14
+Successfully added customer: 000099912 to match 14
+Failed to add customer to match
+Failed to add customer to match
+Failed to add customer to match
+Failed to add customer to match
+Failed to add customer to match
+Successfully added customer: 000099914 to match 16
+@END::COMMAND_13
+@BEGIN::COMMAND_14
+Successfully removed subscription: 7
+Successfully removed subscription: 8
+Successfully removed subscription: 9
+Failed to remove subscription 
+@END::COMMAND_14
+@BEGIN::COMMAND_15
+Successfully added trophy: STADIUM_OF_THE_YEAR to 1
+Successfully added trophy: TEAM_OF_THE_YEAR to 2
+Successfully added trophy: STADIUM_OF_THE_YEAR to 9
+Successfully added trophy: TEAM_OF_THE_YEAR to 7
+Successfully added trophy: COACH_OF_THE_YEAR to 2
+Successfully added trophy: PLAYER_OF_THE_YEAR to 224
+Successfully added trophy: COACH_OF_THE_YEAR to 1
+Successfully added trophy: PLAYER_OF_THE_YEAR to 330
+Successfully added trophy: PLAYER_OF_THE_YEAR to 331
+Successfully added trophy: PLAYER_OF_THE_YEAR to 332
+Successfully added trophy: PLAYER_OF_THE_YEAR to 333
+Successfully added trophy: PLAYER_OF_THE_YEAR to 334
+Successfully added trophy: PLAYER_OF_THE_YEAR to 332
+Failed to add trophy 
+Successfully added trophy: PLAYER_OF_THE_YEAR to 332
+Successfully added trophy: PLAYER_OF_THE_YEAR to 338
+Successfully added trophy: PLAYER_OF_THE_YEAR to 339
+Successfully added trophy: PLAYER_OF_THE_YEAR to 340
+Successfully added trophy: PLAYER_OF_THE_YEAR to 329
+Successfully added trophy: PLAYER_OF_THE_YEAR to 328
+Successfully added trophy: PLAYER_OF_THE_YEAR to 327
+Successfully added trophy: PLAYER_OF_THE_YEAR to 326
+@END::COMMAND_15
+@BEGIN::COMMAND_16
+=============== Printing Stadiums ===============
+Stadium | id: 1, name: Hakufsa, capacity: 1000, address: Vizmam 3, Afula, Israel, phones: {054-5773662,052-8111888}
+============ Printing Receptionists ============
+Employee | id: 11, name: Yarden Haim, birthdate: 16/03/1984;00:00, swd: 01/01/2006;00:00, address: Vizman 7, Afula, Israel, phones: {053-667667}
+Employee | id: 16, name: Sivan Hen, birthdate: 01/10/1988;00:00, swd: 01/01/2012;00:00, address: Lincoln 23, Ashdod, Israel, phones: {052-8880880}
+================ Printing Teams ================
+Team | id: 1, name: FC_Beit_Shean, value: 1, level: BEGINNER, stadium: Hakufsa, coach: Eyal Haim
+============ Printing Players ============
+Employee | id: 301, name: Nader Naftali, birthdate: 26/04/1997;00:00, swd: 01/01/2014;00:00, address: Naftali 89, Ashdod, Israel, phones: {052-8020302}
+Employee | id: 339, name: Haim Ben-Lulu, birthdate: 31/03/1991;00:00, swd: 01/01/2002;00:00, address: Moshe 43, Eilat, Israel, phones: {052-8020340}
+Employee | id: 303, name: Nidal Naftali, birthdate: 05/04/1997;00:00, swd: 01/01/2001;00:00, address: Haim 62, Dimona, Israel, phones: {052-8020304}
+Team | id: 9, name: FC_Afula, value: 1, level: BEGINNER, stadium: Hakufsa, coach: Leon Nahum
+============ Printing Players ============
+Employee | id: 334, name: Haim Arkin, birthdate: 04/04/1990;00:00, swd: 01/01/2009;00:00, address: Moshe 80, Kiryat_Gat, Israel, phones: {052-8020335}
+Employee | id: 335, name: Nitzan Mor, birthdate: 20/04/1991;00:00, swd: 01/01/2008;00:00, address: Haim 88, Bat_Yam, Israel, phones: {052-8020336}
+Employee | id: 337, name: Avi Cohen, birthdate: 24/04/1993;00:00, swd: 01/01/2006;00:00, address: Moshe 28, Jerusalem, Israel, phones: {052-8020338}
+Employee | id: 336, name: Nitzan Shvilli, birthdate: 04/04/1992;00:00, swd: 01/01/2004;00:00, address: Nitzan 10, Hadera, Israel, phones: {052-8020337}
+Employee | id: 338, name: Nidal Mor, birthdate: 11/04/1992;00:00, swd: 01/01/2000;00:00, address: Eli 53, Beersheba, Israel, phones: {052-8020339}
+=============== Printing Matches ===============
+Match | id: 12, start date: 07/03/2018;14:00, duration: 93, extra time: 3, level: INTERMEDIATE, teams: FC_Afula vs FC_Jerusalem, score: 0 - 1
+Stadium | id: 2, name: Beit_Kadur, capacity: 1500, address: Alonim 16, Beit_Shemesh, Israel, phones: {052-8222777,054-5554909}
+============ Printing Receptionists ============
+Employee | id: 12, name: Daniel Levi, birthdate: 10/05/1986;00:00, swd: 01/01/2008;00:00, address: Alonim 10, Beit_Shemesh, Israel, phones: {053-6565656}
+================ Printing Teams ================
+Team | id: 2, name: FC_Beit_Shemesh, value: 3, level: BEGINNER, stadium: Beit_Kadur, coach: Yaron Levi
+============ Printing Players ============
+Employee | id: 308, name: Moshe Ben-Lulu, birthdate: 26/04/1990;00:00, swd: 01/01/2004;00:00, address: Nidal 97, Bnei_Brak, Israel, phones: {052-8020309}
+Employee | id: 307, name: Moshe Yosef, birthdate: 01/04/1991;00:00, swd: 01/01/2001;00:00, address: Nader 39, Haifa, Israel, phones: {052-8020308}
+Employee | id: 304, name: Nitzan Cohen, birthdate: 24/04/1997;00:00, swd: 01/01/2000;00:00, address: Avi 61, Arad, Israel, phones: {052-8020305}
+Team | id: 3, name: FC_Beit_Hashmonai, value: 6, level: ADVANCED, stadium: Beit_Kadur, coach: Gadi Melamed
+============ Printing Players ============
+Employee | id: 309, name: beni Abu-Ahmad, birthdate: 09/04/1992;00:00, swd: 01/01/2009;00:00, address: Moshe 58, Eilat, Israel, phones: {052-8020310}
+Employee | id: 310, name: beni Mor, birthdate: 23/04/1990;00:00, swd: 01/01/2008;00:00, address: beni 86, Ashkelon, Israel, phones: {052-8020311}
+Employee | id: 312, name: Moshe Arkin, birthdate: 04/04/1997;00:00, swd: 01/01/2004;00:00, address: Naftali 93, Kfar_Saba, Israel, phones: {052-8020313}
+Employee | id: 311, name: Eli Shvilli, birthdate: 19/04/1994;00:00, swd: 01/01/2000;00:00, address: Haim 56, Bnei_Brak, Israel, phones: {052-8020312}
+=============== Printing Matches ===============
+Match | id: 2, start date: 03/03/2018;14:00, duration: 94, extra time: 4, level: INTERMEDIATE, teams: FC_Beit_Shemesh vs FC_Beit_Hashmonai, score: 2 - 1
+Match | id: 18, start date: 07/03/2018;14:00, duration: 93, extra time: 3, level: INTERMEDIATE, teams: FC_Beit_Shemesh vs FC_Jerusalem_East, score: 2 - 1
+Match | id: 3, start date: 04/03/2018;12:00, duration: 95, extra time: 5, level: ADVANCED, teams: FC_Beit_Hashmonai vs FC_Nesher, score: 5 - 1
+Stadium | id: 3, name: Tebi, capacity: 3000, address: Hashmal 5, Jerusalem, Israel, phones: {052-8112111,054-5675656}
+============ Printing Receptionists ============
+Employee | id: 13, name: Mor Melamed, birthdate: 06/07/1984;00:00, swd: 01/01/2010;00:00, address: Hashmal 1, Hadera, Israel, phones: {052-8776111}
+================ Printing Teams ================
+Team | id: 4, name: FC_Jerusalem_East, value: 6, level: ADVANCED, stadium: Tebi, coach: Roy Shefer
+============ Printing Players ============
+Employee | id: 316, name: Eli Abu-Ahmad, birthdate: 21/04/1998;00:00, swd: 01/01/2007;00:00, address: Naftali 19, Hod_HaSharon, Israel, phones: {052-8020317}
+Employee | id: 317, name: Haim Yosef, birthdate: 02/04/1997;00:00, swd: 01/01/2006;00:00, address: Moshe 10, Beersheba, Israel, phones: {052-8020318}
+Employee | id: 315, name: Yossi Cohen, birthdate: 14/04/1993;00:00, swd: 01/01/2005;00:00, address: Avi 75, Haifa, Israel, phones: {052-8020316}
+Team | id: 11, name: FC_Jerusalem, value: 6, level: ADVANCED, stadium: Tebi, coach: Hoze Rfeal
+============ Printing Players ============
+Employee | id: 347, name: Yossi Mor, birthdate: 11/04/1996;00:00, swd: 01/01/2007;00:00, address: Nidal 21, Baqa_Jatt, Israel, phones: {052-8020348}
+Employee | id: 344, name: Avi Ben-Lulu, birthdate: 10/04/1995;00:00, swd: 01/01/2003;00:00, address: Naftali 43, Kfar_Saba, Israel, phones: {052-8020345}
+Employee | id: 345, name: Naftali Sharvit, birthdate: 05/04/1992;00:00, swd: 01/01/2002;00:00, address: Nitzan 51, Eilat, Israel, phones: {052-8020346}
+Employee | id: 346, name: Nader Ben-Gal, birthdate: 25/04/1995;00:00, swd: 01/01/2001;00:00, address: Haim 49, Ariel, Israel, phones: {052-8020347}
+=============== Printing Matches ===============
+Match | id: 4, start date: 05/03/2018;12:00, duration: 93, extra time: 3, level: ADVANCED, teams: FC_Jerusalem_East vs FC_Beit_Hashmonai, score: 1 - 2
+Match | id: 21, start date: 02/03/2018;12:00, duration: 93, extra time: 3, level: INTERMEDIATE, teams: FC_Jerusalem_East vs FC_Beit_Shean, score: 3 - 3
+Match | id: 14, start date: 19/03/2018;12:00, duration: 94, extra time: 4, level: ADVANCED, teams: FC_Jerusalem vs FC_Jerusalem_East, score: 3 - 3
+Stadium | id: 4, name: Sami_Hofer, capacity: 10000, address: Nirim 20, Haifa, Israel, phones: {052-8243444,054-5666776}
+============ Printing Receptionists ============
+Employee | id: 14, name: Rina Shefer, birthdate: 08/11/1982;00:00, swd: 01/01/2011;00:00, address: Nirim 20, Kfar_Saba, Israel, phones: {052-8909011}
+================ Printing Teams ================
+Team | id: 5, name: FC_Nesher, value: 6, level: ADVANCED, stadium: Sami_Hofer, coach: Shimon Danon
+============ Printing Players ============
+Employee | id: 322, name: Haim Naftali, birthdate: 22/04/1995;00:00, swd: 01/01/2004;00:00, address: Nitzan 45, Eilat, Israel, phones: {052-8020323}
+Employee | id: 320, name: Naftali Ben-Lulu, birthdate: 21/04/1990;00:00, swd: 01/01/2003;00:00, address: Nitzan 55, Ashkelon, Israel, phones: {052-8020321}
+Employee | id: 319, name: beni Abu-Ahmad, birthdate: 13/04/1990;00:00, swd: 01/01/2002;00:00, address: Nidal 65, Beit_Shemesh, Israel, phones: {052-8020320}
+Team | id: 12, name: FC_Haifa, value: 7, level: ADVANCED, stadium: Sami_Hofer, coach: Nidal Fahum
+============ Printing Players ============
+Employee | id: 351, name: beni Abu-Ahmad, birthdate: 23/04/1998;00:00, swd: 01/01/2009;00:00, address: Haim 44, Bnei_Brak, Israel, phones: {052-8020352}
+Employee | id: 353, name: Nitzan Yosef, birthdate: 19/04/1990;00:00, swd: 01/01/2004;00:00, address: Nader 76, Jerusalem, Israel, phones: {052-8020354}
+Employee | id: 349, name: Nitzan Mor, birthdate: 25/04/1992;00:00, swd: 01/01/2002;00:00, address: Yossi 19, Ashdod, Israel, phones: {052-8020350}
+Employee | id: 350, name: Nader Yosef, birthdate: 26/04/1992;00:00, swd: 01/01/2001;00:00, address: Avi 34, Givatayim, Israel, phones: {052-8020351}
+Employee | id: 352, name: Nidal Ben-Gal, birthdate: 20/04/1995;00:00, swd: 01/01/2000;00:00, address: Eli 73, Karmiel, Israel, phones: {052-8020353}
+=============== Printing Matches ===============
+Match | id: 5, start date: 10/03/2018;12:00, duration: 94, extra time: 4, level: INTERMEDIATE, teams: FC_Nesher vs FC_Beit_Shean, score: 2 - 3
+Stadium | id: 5, name: Camp_No, capacity: 2000, address: Almahrum 29, Umm_al_Fahm, Israel, phones: {052-8999333,054-5121323}
+============ Printing Receptionists ============
+Employee | id: 15, name: Rika Danon, birthdate: 09/12/1983;00:00, swd: 01/01/2012;00:00, address: Haruvim 56, Sderot, Israel, phones: {052-8212333}
+================ Printing Teams ================
+Team | id: 7, name: FC_Menahem, value: 1, level: INTERMEDIATE, stadium: Camp_No, coach: Salah Shabati
+============ Printing Players ============
+Employee | id: 324, name: Moshe Naftali, birthdate: 13/04/1998;00:00, swd: 01/01/2008;00:00, address: Nitzan 39, Haifa, Israel, phones: {052-8020325}
+Employee | id: 325, name: Nidal Abu-Ahmad, birthdate: 01/04/1996;00:00, swd: 01/01/2005;00:00, address: Nidal 40, Bnei_Brak, Israel, phones: {052-8020326}
+Employee | id: 326, name: Naftali Yosef, birthdate: 12/04/1998;00:00, swd: 01/01/2002;00:00, address: Nader 25, Kafr_Qasim, Israel, phones: {052-8020327}
+Employee | id: 328, name: beni Ben-Lulu, birthdate: 16/04/1998;00:00, swd: 01/01/2000;00:00, address: Nidal 67, Arad, Israel, phones: {052-8020329}
+Team | id: 13, name: FC_Menahum, value: 1, level: INTERMEDIATE, stadium: Camp_No, coach: Doron Hen
+============ Printing Players ============
+Employee | id: 355, name: Nidal Abu-Ahmad, birthdate: 26/04/1996;00:00, swd: 01/01/2006;00:00, address: Yossi 82, Ariel, Israel, phones: {052-8020356}
+Employee | id: 356, name: beni Ben-Lulu, birthdate: 11/04/1996;00:00, swd: 01/01/2004;00:00, address: Haim 99, Beersheba, Israel, phones: {052-8020357}
+Employee | id: 354, name: beni Yosef, birthdate: 01/04/1998;00:00, swd: 01/01/2003;00:00, address: Avi 62, Holon, Israel, phones: {052-8020355}
+Employee | id: 357, name: Nader Arkin, birthdate: 01/04/1993;00:00, swd: 01/01/2002;00:00, address: Eli 67, Bat_Yam, Israel, phones: {052-8020358}
+=============== Printing Matches ===============
+Match | id: 7, start date: 02/03/2018;14:00, duration: 95, extra time: 5, level: INTERMEDIATE, teams: FC_Menahem vs FC_Beit_Hashmonai, score: 3 - 1
+Match | id: 16, start date: 02/03/2018;17:00, duration: 95, extra time: 5, level: INTERMEDIATE, teams: FC_Menahum vs FC_Jerusalem, score: 2 - 0
+Stadium | id: 6, name: Bermabeu, capacity: 5000, address: Almahbub 13, Kafr_Qasim, Israel, phones: {052-8666666,054-5666666}
+============ Printing Receptionists ============
+================ Printing Teams ================
+Team | id: 8, name: FC_Almahrum, value: 4, level: PROFESSIONAL, stadium: Bermabeu, coach: team has no coach
+============ Printing Players ============
+Employee | id: 330, name: Eli Yosef, birthdate: 21/04/1990;00:00, swd: 01/01/2009;00:00, address: Moshe 41, Afula, Israel, phones: {052-8020331}
+Employee | id: 331, name: beni Abu-Ahmad, birthdate: 06/04/1993;00:00, swd: 01/01/2007;00:00, address: Nidal 24, Elad, Israel, phones: {052-8020332}
+Employee | id: 332, name: beni Shvilli, birthdate: 18/04/1991;00:00, swd: 01/01/2003;00:00, address: Moshe 57, Dimona, Israel, phones: {052-8020333}
+Employee | id: 329, name: Nitzan Naftali, birthdate: 25/04/1993;00:00, swd: 01/01/2002;00:00, address: Haim 57, Hadera, Israel, phones: {052-8020330}
+Team | id: 14, name: FC_Umm_al_Fahm, value: 4, level: PROFESSIONAL, stadium: Bermabeu, coach: Nidal Fahum
+============ Printing Players ============
+Employee | id: 342, name: Nidal Naftali, birthdate: 17/04/1997;00:00, swd: 01/01/2003;00:00, address: Eli 76, Ariel, Israel, phones: {052-8020343}
+Employee | id: 341, name: Yossi Mor, birthdate: 10/04/1995;00:00, swd: 01/01/2000;00:00, address: Avi 48, Hod_HaSharon, Israel, phones: {052-8020342}
+=============== Printing Matches ===============
+Match | id: 10, start date: 08/03/2018;14:00, duration: 93, extra time: 3, level: INTERMEDIATE, teams: FC_Almahrum vs FC_Beit_Shean, score: 1 - 2
+Stadium | id: 7, name: Testium, capacity: 5000, address: Almahbub 11, Bat_Yam, Israel, phones: {052-8621666,054-5613166}
+============ Printing Receptionists ============
+================ Printing Teams ================
+=============== Printing Matches ===============
+=============== Printing Customers ===============
+Customer | id: 000099916, name: Don Roz, birthdate: 27/10/1978;00:00, level: BEGINNER, email: http:\\don@Gmail.com, favorite team: FC_Haifa, address: Elisheva 27, Kiryat_Yam, Israel, phones: {052-8300355}
+============ Printing Subscriptions ============
+Customer | id: 000099917, name: Oshri Mimon, birthdate: 28/04/1976;00:00, level: ADVANCED, email: http:\\oshri@Gmail.com, favorite team: FC_Jerusalem, address: Agahaton 24, Nahariya, Israel, phones: {052-8100408}
+============ Printing Subscriptions ============
+Customer | id: 000099914, name: Dan Himan, birthdate: 25/01/1978;00:00, level: BEGINNER, email: http:\\dan11@Gmail.com, favorite team: FC_Umm_al_Fahm, address: Ezra 27, Ofakim, Israel, phones: {052-8772002}
+============ Printing Subscriptions ============
+Subscription | id: 19, customer: Dan Himan, receptionist: Rika Danon, period: QUARTER, start date: 22/02/2018;00:00
+Customer | id: 000099915, name: Din Gal, birthdate: 26/11/1978;00:00, level: BEGINNER, email: http:\\din@Gmail.com, favorite team: FC_Umm_al_Fahm, address: Robert-Sold 21, Ramat_HaSharon, Israel, phones: {052-8511114}
+============ Printing Subscriptions ============
+Customer | id: 000099912, name: Natali Hemo, birthdate: 15/11/1990;00:00, level: BEGINNER, email: http:\\natali@Gmail.com, favorite team: FC_Haifa, address: Herzel 29, Maale_Adumim, Israel, phones: {052-8999100}
+============ Printing Subscriptions ============
+Subscription | id: 11, customer: Natali Hemo, receptionist: Mor Melamed, period: YEAR, start date: 22/01/2018;00:00
+Customer | id: 000099913, name: Shaked Lev, birthdate: 14/02/1979;00:00, level: INTERMEDIATE, email: http:\\shaked@Gmail.com, favorite team: FC_Menahum, address: Gidon 49, Modiin_Illit, Israel, phones: {052-8120444}
+============ Printing Subscriptions ============
+Subscription | id: 12, customer: Shaked Lev, receptionist: Yarden Haim, period: MONTH, start date: 22/01/2018;00:00
+Customer | id: 000099998, name: Shai Alush, birthdate: 09/11/1976;00:00, level: INTERMEDIATE, email: http:\\shai@Gmail.com, favorite team: FC_Almahrum, address: Moria 36, Haifa, Israel, phones: {052-8108880}
+============ Printing Subscriptions ============
+Customer | id: 000099921, name: Don Roz, birthdate: 27/10/1978;00:00, level: BEGINNER, email: http:\\don@Gmail.com, favorite team: FC_Beit_Hashmonai, address: Elisheva 27, Kiryat_Yam, Israel, phones: {052-8300355}
+============ Printing Subscriptions ============
+Customer | id: 000099999, name: Ben Kim, birthdate: 10/11/1979;00:00, level: BEGINNER, email: http:\\ben@Gmail.com, favorite team: FC_Afula, address: Golan 71, Kafr_Qasim, Israel, phones: {052-8902229}
+============ Printing Subscriptions ============
+Customer | id: 000099911, name: Viki Shefer, birthdate: 18/09/1988;00:00, level: BEGINNER, email: http:\\viki@Gmail.com, favorite team: FC_Jerusalem, address: Biana 4, Ofakim, Israel, phones: {052-8000555}
+============ Printing Subscriptions ============
+Subscription | id: 10, customer: Viki Shefer, receptionist: Mor Melamed, period: HALF, start date: 22/01/2018;00:00
+Customer | id: 000099997, name: Elad Hen, birthdate: 08/11/1976;00:00, level: BEGINNER, email: http:\\elad@Gmail.com, favorite team: FC_Menahem, address: Agahaton 75, Nahariya, Israel, phones: {052-8030003}
+============ Printing Subscriptions ============
+Customer | id: 000099920, name: Meira Levi, birthdate: 24/09/1983;00:00, level: BEGINNER, email: http:\\meira@Gmail.com, favorite team: FC_Beit_Shean, address: Fifth-evn 18, Modiin_Illit, Israel, phones: {052-8455122}
+============ Printing Subscriptions ============
+Customer | id: 000099994, name: Shani Iluz, birthdate: 05/05/1978;00:00, level: BEGINNER, email: http:\\shani@Walla.co.il, favorite team: FC_Jerusalem_East, address: Ezra 66, Ofakim, Israel, phones: {052-8200277}
+============ Printing Subscriptions ============
+Subscription | id: 193, customer: Shani Iluz, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 194, customer: Shani Iluz, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 4, customer: Shani Iluz, receptionist: Sivan Hen, period: HALF, start date: 19/01/2018;00:00
+Subscription | id: 6, customer: Shani Iluz, receptionist: Rika Danon, period: QUARTER, start date: 22/01/2018;00:00
+Subscription | id: 41, customer: Shani Iluz, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 42, customer: Shani Iluz, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 43, customer: Shani Iluz, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 44, customer: Shani Iluz, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 141, customer: Shani Iluz, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 142, customer: Shani Iluz, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 143, customer: Shani Iluz, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 16, customer: Shani Iluz, receptionist: Rika Danon, period: MONTH, start date: 01/03/2018;00:00
+Subscription | id: 144, customer: Shani Iluz, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 91, customer: Shani Iluz, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 92, customer: Shani Iluz, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 93, customer: Shani Iluz, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 94, customer: Shani Iluz, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 191, customer: Shani Iluz, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 192, customer: Shani Iluz, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Customer | id: 000099995, name: Gabi Avni, birthdate: 08/01/1978;00:00, level: BEGINNER, email: http:\\gabi@Walla.co.il, favorite team: FC_Nesher, address: Robert-Sold 11, Ramat_HaSharon, Israel, phones: {052-8300200}
+============ Printing Subscriptions ============
+Customer | id: 000099992, name: Avi Vizman, birthdate: 02/01/1990;00:00, level: INTERMEDIATE, email: http:\\avi@Hotmail.co.il, favorite team: FC_Beit_Shemesh, address: Herzel 22, Holon, Israel, phones: {052-8198765}
+============ Printing Subscriptions ============
+Subscription | id: 2, customer: Avi Vizman, receptionist: Sivan Hen, period: YEAR, start date: 22/02/2018;00:00
+Subscription | id: 71, customer: Avi Vizman, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 72, customer: Avi Vizman, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 73, customer: Avi Vizman, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 74, customer: Avi Vizman, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 171, customer: Avi Vizman, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 172, customer: Avi Vizman, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 173, customer: Avi Vizman, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 14, customer: Avi Vizman, receptionist: Rika Danon, period: HALF, start date: 01/02/2018;00:00
+Subscription | id: 174, customer: Avi Vizman, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 21, customer: Avi Vizman, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 22, customer: Avi Vizman, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 23, customer: Avi Vizman, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 24, customer: Avi Vizman, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 121, customer: Avi Vizman, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 122, customer: Avi Vizman, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 123, customer: Avi Vizman, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 124, customer: Avi Vizman, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Customer | id: 000099993, name: Dor Kam, birthdate: 07/03/1979;00:00, level: INTERMEDIATE, email: http:\\dor@Walla.co.il, favorite team: FC_Beit_Hashmonai, address: Gidon 22, Modiin_Illit, Israel, phones: {052-8020003}
+============ Printing Subscriptions ============
+Subscription | id: 33, customer: Dor Kam, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 34, customer: Dor Kam, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 3, customer: Dor Kam, receptionist: Rina Shefer, period: YEAR, start date: 20/01/2018;00:00
+Subscription | id: 131, customer: Dor Kam, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 132, customer: Dor Kam, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 133, customer: Dor Kam, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 134, customer: Dor Kam, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 15, customer: Dor Kam, receptionist: Rika Danon, period: YEAR, start date: 01/02/2018;00:00
+Subscription | id: 81, customer: Dor Kam, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 82, customer: Dor Kam, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 83, customer: Dor Kam, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 84, customer: Dor Kam, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 181, customer: Dor Kam, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 182, customer: Dor Kam, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 183, customer: Dor Kam, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 184, customer: Dor Kam, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 31, customer: Dor Kam, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 32, customer: Dor Kam, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Customer | id: 000099991, name: Gilad Levi, birthdate: 01/01/1988;00:00, level: BEGINNER, email: http:\\gilad@Gmail.com, favorite team: FC_Beit_Shean, address: Herzel 22, Herzliya, Israel, phones: {052-8090939}
+============ Printing Subscriptions ============
+Subscription | id: 1, customer: Gilad Levi, receptionist: Yarden Haim, period: YEAR, start date: 20/01/2018;00:00
+Subscription | id: 161, customer: Gilad Levi, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 162, customer: Gilad Levi, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 163, customer: Gilad Levi, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 164, customer: Gilad Levi, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 11, customer: Gilad Levi, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 12, customer: Gilad Levi, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 13, customer: Gilad Levi, receptionist: Rika Danon, period: QUARTER, start date: 01/02/2018;00:00
+Subscription | id: 14, customer: Gilad Levi, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 111, customer: Gilad Levi, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 112, customer: Gilad Levi, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 113, customer: Gilad Levi, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 114, customer: Gilad Levi, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Subscription | id: 61, customer: Gilad Levi, receptionist: Yarden Haim, period: QUARTER, start date: 21/03/2018;00:00
+Subscription | id: 62, customer: Gilad Levi, receptionist: Daniel Levi, period: QUARTER, start date: 22/03/2018;00:00
+Subscription | id: 63, customer: Gilad Levi, receptionist: Mor Melamed, period: QUARTER, start date: 23/03/2018;00:00
+Subscription | id: 64, customer: Gilad Levi, receptionist: Rina Shefer, period: QUARTER, start date: 24/03/2018;00:00
+Customer | id: 000099919, name: Yossi Shabat, birthdate: 20/08/1979;00:00, level: BEGINNER, email: http:\\yossi@Gmail.com, favorite team: FC_Beit_Shean, address: Golan 13, Kafr_Qasim, Israel, phones: {052-8131313}
+============ Printing Subscriptions ============
+@END::COMMAND_16
+@BEGIN::COMMAND_17
+getSuperPlayerMaker returns:
+	Employee | id: 303, name: Nidal Naftali, birthdate: 05/04/1997;00:00, swd: 01/01/2001;00:00, address: Haim 62, Dimona, Israel, phones: {052-8020304}
+@END::COMMAND_17
+@BEGIN::COMMAND_18
+getAllSuperPlayerMakers returns:
+1	Employee | id: 317, name: Haim Yosef, birthdate: 02/04/1997;00:00, swd: 01/01/2006;00:00, address: Moshe 10, Beersheba, Israel, phones: {052-8020318}
+2	Employee | id: 309, name: beni Abu-Ahmad, birthdate: 09/04/1992;00:00, swd: 01/01/2009;00:00, address: Moshe 58, Eilat, Israel, phones: {052-8020310}
+3	Employee | id: 303, name: Nidal Naftali, birthdate: 05/04/1997;00:00, swd: 01/01/2001;00:00, address: Haim 62, Dimona, Israel, phones: {052-8020304}
+4	Employee | id: 320, name: Naftali Ben-Lulu, birthdate: 21/04/1990;00:00, swd: 01/01/2003;00:00, address: Nitzan 55, Ashkelon, Israel, phones: {052-8020321}
+@END::COMMAND_18
+@BEGIN::COMMAND_19
+getTheMostPopularPosition returns:
+	MIDFIELDER
+@END::COMMAND_19
+@BEGIN::COMMAND_20
+getTheMostFavoredTeam returns:
+	Team | id: 1, name: FC_Beit_Shean, value: 1, level: BEGINNER, stadium: Hakufsa, coach: Eyal Haim
+@END::COMMAND_20
+@BEGIN::COMMAND_21
+getTheMostActiveCity returns:
+	Ashdod
+@END::COMMAND_21
+@BEGIN::COMMAND_22
+getEntityWithMostTrophies returns:
+	Employee | id: 332, name: beni Shvilli, birthdate: 18/04/1991;00:00, swd: 01/01/2003;00:00, address: Moshe 57, Dimona, Israel, phones: {052-8020333}
+@END::COMMAND_22
+@BEGIN::COMMAND_23
+getTeamWithLargestHomeCrowd returns:
+	Team | id: 3, name: FC_Beit_Hashmonai, value: 6, level: ADVANCED, stadium: Beit_Kadur, coach: Gadi Melamed
+@END::COMMAND_23
+@BEGIN::COMMAND_24
+getCustomersStadium1XORStadium2 returns:
+1	Customer | id: 000099912, name: Natali Hemo, birthdate: 15/11/1990;00:00, level: BEGINNER, email: http:\\natali@Gmail.com, favorite team: FC_Haifa, address: Herzel 29, Maale_Adumim, Israel, phones: {052-8999100}
+2	Customer | id: 000099911, name: Viki Shefer, birthdate: 18/09/1988;00:00, level: BEGINNER, email: http:\\viki@Gmail.com, favorite team: FC_Jerusalem, address: Biana 4, Ofakim, Israel, phones: {052-8000555}
+@END::COMMAND_24
+@BEGIN::COMMAND_25
+getFirstPlayersOfBestHomeTeam returns:
+1	Employee | id: 309, name: beni Abu-Ahmad, birthdate: 09/04/1992;00:00, swd: 01/01/2009;00:00, address: Moshe 58, Eilat, Israel, phones: {052-8020310}
+2	Employee | id: 310, name: beni Mor, birthdate: 23/04/1990;00:00, swd: 01/01/2008;00:00, address: beni 86, Ashkelon, Israel, phones: {052-8020311}
+@END::COMMAND_25

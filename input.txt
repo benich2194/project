@@ -1,0 +1,489 @@
+// add new stadium addStadium(id, name, capacity, city, street, houseNumber, phoneNumber);
+addStadium  0001   Hakufsa	1000   Afula	    Vizmam    3   054-5773662,052-8111888
+addStadium  0001   Hakufsa	1000   Afula	    Vizmam    3   054-5773662,052-8111888  
+addStadium  0002   Beit_Kadur   1500   Beit_Shemesh Alonim    16  052-8222777,054-5554909 
+addStadium  0003   Tebi      	3000   Jerusalem    Hashmal   5   052-8112111,054-5675656 
+addStadium  0004   Sami_Hofer   10000  Haifa 	    Nirim     20  052-8243444,054-5666776
+addStadium  0005   Camp_No	2000   Umm_al_Fahm  Almahrum  29  052-8999333,054-5121323
+addStadium  0006   Bermabeu     5000   Kafr_Qasim   Almahbub  13  052-8666666,054-5666666 
+addStadium  0007   Testium     	5000   Bat_Yam      Almahbub  11  052-8621666,054-5613166
+// ===============================================================================================================
+// add new team addTeam(id, name, value, level, stadiumId);
+addTeam  0001   FC_Beit_Shean	  1   BEGINNER 		0001
+addTeam  0002   FC_Beit_Shemesh   3   BEGINNER     	0002
+addTeam  0003   FC_Beit_Hashmonai 6   ADVANCED      	0002
+addTeam  0004   FC_Jerusalem_East 6   ADVANCED      	0003
+addTeam  0005   FC_Nesher	  6   ADVANCED      	0004
+addTeam  0006   FC_Nazareth 	  7   ADVANCED      	0014
+addTeam  0007   FC_Menahem	  1   INTERMEDIATE  	0005
+addTeam  0008   FC_Almahrum	  4   PROFESSIONAL	0006
+addTeam  0009   FC_Afula	  1   BEGINNER     	0001
+addTeam  0010   FC_Beit_Shemesh   3   BEGINNER     	0002
+addTeam  0011   FC_Jerusalem      6   ADVANCED      	0003
+addTeam  0012   FC_Haifa 	  7   ADVANCED      	0004
+addTeam  0013   FC_Menahum	  1   INTERMEDIATE  	0005
+addTeam  0014   FC_Umm_al_Fahm 	  4   PROFESSIONAL	0006
+addTeam  0016   FC_Bat  	 -4   PROFESSIONAL	0007
+// ===============================================================================================================
+// add new coach addCoach(id, firstName, lastName, birthDate, startWorkingDate, level, address);
+addCoach  000001 Eyal   Haim    16/12/1984 01/01/2000 ADVANCED      Afula        Vizman   7  053-6676675
+addCoach  000002 Yaron  Levi    10/05/1986 01/01/2000 ADVANCED      Beit_Shemesh Alonim   10 053-6565656
+addCoach  000003 Gadi   Melamed 06/07/1984 01/01/2010 ADVANCED      Hadera       Hashmal  1  052-8776111
+addCoach  000004 Roy    Shefer  08/11/1982 01/01/2011 ADVANCED      Kfar_Saba    Nirim    20 052-8909011
+addCoach  000005 Shimon Danon   09/12/1983 01/01/2012 ADVANCED      Sderot       Haruvim  56 052-8212333
+addCoach  000006 Doron  Hen     01/10/1988 01/01/2012 PROFESSIONAL  Umm_al_Fahm  Lincoln  23 052-8880880
+addCoach  000007 Salah  Shabati 01/09/1988 01/01/2013 ADVANCED      Ashdod	 Edinburg 12 052-8616161
+addCoach  000008 Dvora  Erez    10/09/1986 01/01/2007 BEGINNER      Bnei_Brak    Ocean    43 052-8000911
+addCoach  000009 Leon   Nahum   18/07/1985 01/01/2005 ADVANCED      Kafr_Qasim   Syonar   77 052-8070707
+addCoach  000009 Leon   Nahum   18/07/1985 01/01/2005 ADVANCED      Kafr_Qasim   Syonar   77 052-8070707
+addCoach  000010 Hoze   Soel    22/01/1987 01/01/2004 ADVANCED      Yavne        Dovrim   89 052-8020202
+addCoach  -31415 Horhe  Rfel    22/04/1983 01/01/2004 ADVANCED      Yavne        Dovrim   89 052-8020202
+addCoach  000011 Hoze  	Rfeal   22/02/1997 01/01/2004 ADVANCED      Yavne        Dovrim   89 052-8020202
+addCoach  000012 Nidal  Fahum   22/03/1987 01/01/2004 ADVANCED      Yavne        Dovrim   89 052-8020202
+addCoach  000013 Nidal  Abdala  21/01/2017 01/01/2004 PROFESSIONAL  Yavne        Dovrim   89 052-8020202
+addCoach  000014 Nidal  Fahum   12/04/1997 21/06/2005 PROFESSIONAL  Yavne        Hertzel  19 052-8020445
+// ===============================================================================================================
+// add new player addPlayer(id, firstName, lastName, birthDate, startWorkingDate, level, value, isRightLegKicker, position, address);
+addPlayer 300 Asaf Lotz 26/04/1997 01/01/2014 BEGINNER  138338	false	 MIDFIELDER Ashdod   Naftali 89  052-8020302
+addPlayer 301 Nader Naftali 26/04/1997 01/01/2014 BEGINNER  138338	true	 MIDFIELDER Ashdod   Naftali 89  052-8020302
+addPlayer 301 Nader Naftali 26/04/1997 01/01/2014 BEGINNER  138338	false	 MIDFIELDER Ashdod   Naftali 89  052-8020302
+addPlayer 302 beni Mor 24/04/1991 01/01/2003 BEGINNER  104743	false	 MIDFIELDER Kiryat_Bialik   Avi 8  052-8020303
+addPlayer 303 Nidal Naftali 5/04/1997 01/01/2001 INTERMEDIATE  154623	true	 MIDFIELDER Dimona   Haim 62  052-8020304
+addPlayer 304 Nitzan Cohen 24/04/1997 01/01/2000 INTERMEDIATE  148749	true	 DEFENDER Arad   Avi 61  052-8020305
+addPlayer 305 beni Abu-Ahmad 11/04/1997 01/01/2000 PROFESSIONAL  190051	false	 MIDFIELDER Acre   Nidal 66  052-8020306
+addPlayer 306 Moshe Arkin 5/04/1997 01/01/2000 PROFESSIONAL  117951	false	 MIDFIELDER Baqa_Jatt   Avi 48  052-8020307
+addPlayer 307 Moshe Yosef 1/04/1991 01/01/2001 INTERMEDIATE  101739	false	 GOAlKEEPER Haifa   Nader 39  052-8020308
+addPlayer 308 Moshe Ben-Lulu 26/04/1990 01/01/2004 ADVANCED  140974	false	 GOAlKEEPER Bnei_Brak   Nidal 97  052-8020309
+addPlayer 309 beni Abu-Ahmad 9/04/1992 01/01/2009 BEGINNER  108074	true	 MIDFIELDER Eilat   Moshe 58  052-8020310
+addPlayer 310 beni Mor 23/04/1990 01/01/2008 PROFESSIONAL  164627	false	 MIDFIELDER Ashkelon   beni 86  052-8020311
+addPlayer 311 Eli Shvilli 19/04/1994 01/01/2000 BEGINNER  114026	false	 DEFENDER Bnei_Brak   Haim 56  052-8020312
+addPlayer 312 Moshe Arkin 4/04/1997 01/01/2004 INTERMEDIATE  162168	false	 DEFENDER Kfar_Saba   Naftali 93  052-8020313
+addPlayer 313 Nidal Arkin 14/04/1993 01/01/2004 ADVANCED  142158	false	 DEFENDER Kiryat_Bialik   Haim 55  052-8020314
+addPlayer 314 Naftali Abu-Ahmad 7/04/1991 01/01/2009 BEGINNER  177660	true	 MIDFIELDER Kafr_Qasim   Yossi 10  052-8020315
+addPlayer 315 Yossi Cohen 14/04/1993 01/01/2005 BEGINNER  111326	false	 DEFENDER Haifa   Avi 75  052-8020316
+addPlayer 316 Eli Abu-Ahmad 21/04/1998 01/01/2007 INTERMEDIATE  108579	false	 MIDFIELDER Hod_HaSharon   Naftali 19  052-8020317
+addPlayer 317 Haim Yosef 2/04/1997 01/01/2006 PROFESSIONAL  100711	true	 MIDFIELDER Beersheba   Moshe 10  052-8020318
+addPlayer 318 beni Abu-Ahmad 12/04/1994 01/01/2006 PROFESSIONAL  116993	false	 MIDFIELDER Hadera   Naftali 23  052-8020319
+addPlayer 319 beni Abu-Ahmad 13/04/1990 01/01/2002 BEGINNER  155093	true	 ATTACKER Beit_Shemesh   Nidal 65  052-8020320
+addPlayer 320 Naftali Ben-Lulu 21/04/1990 01/01/2003 PROFESSIONAL  179753	true	 MIDFIELDER Ashkelon   Nitzan 55  052-8020321
+addPlayer 321 Avi Yosef 2/04/1998 01/01/2003 BEGINNER  174607	false	 GOAlKEEPER Kfar_Saba   Avi 31  052-8020322
+addPlayer 322 Haim Naftali 22/04/1995 01/01/2004 ADVANCED  199849	false	 MIDFIELDER Eilat   Nitzan 45  052-8020323
+addPlayer 323 beni Ben-Lulu 11/04/1995 01/01/2002 INTERMEDIATE  186058	false	 GOAlKEEPER Elad   Yossi 6  052-8020324
+addPlayer 324 Moshe Naftali 13/04/1998 01/01/2008 ADVANCED  189257	true	 ATTACKER Haifa   Nitzan 39  052-8020325
+addPlayer 325 Nidal Abu-Ahmad 1/04/1996 01/01/2005 INTERMEDIATE  190170	false	 DEFENDER Bnei_Brak   Nidal 40  052-8020326
+addPlayer 326 Naftali Yosef 12/04/1998 01/01/2002 BEGINNER  164078	false	 GOAlKEEPER Kafr_Qasim   Nader 25  052-8020327
+addPlayer 327 beni Naftali 18/04/1992 01/01/2002 INTERMEDIATE  141102	false	 MIDFIELDER Ashkelon   Haim 55  052-8020328
+addPlayer 328 beni Ben-Lulu 16/04/1998 01/01/2000 ADVANCED  146098	false	 ATTACKER Arad   Nidal 67  052-8020329
+addPlayer 329 Nitzan Naftali 25/04/1993 01/01/2002 ADVANCED  132635	true	 ATTACKER Hadera   Haim 57  052-8020330
+addPlayer 330 Eli Yosef 21/04/1990 01/01/2009 ADVANCED  124602	false	 ATTACKER Afula   Moshe 41  052-8020331
+addPlayer 331 beni Abu-Ahmad 6/04/1993 01/01/2007 PROFESSIONAL  134713	false	 ATTACKER Elad   Nidal 24  052-8020332
+addPlayer 332 beni Shvilli 18/04/1991 01/01/2003 PROFESSIONAL  132610	false	 MIDFIELDER Dimona   Moshe 57  052-8020333
+addPlayer 333 Nidal Ben-Lulu 6/04/1992 01/01/2003 BEGINNER  150173	false	 MIDFIELDER Beersheba   Nidal 59  052-8020334
+addPlayer 334 Haim Arkin 4/04/1990 01/01/2009 BEGINNER  139926	true	 DEFENDER Kiryat_Gat   Moshe 80  052-8020335
+addPlayer 335 Nitzan Mor 20/04/1991 01/01/2008 PROFESSIONAL  166394	false	 MIDFIELDER Bat_Yam   Haim 88  052-8020336
+addPlayer 336 Nitzan Shvilli 4/04/1992 01/01/2004 INTERMEDIATE  170869	false	 ATTACKER Hadera   Nitzan 10  052-8020337
+addPlayer 337 Avi Cohen 24/04/1993 01/01/2006 ADVANCED  100578	false	 ATTACKER Jerusalem   Moshe 28  052-8020338
+addPlayer 338 Nidal Mor 11/04/1992 01/01/2000 ADVANCED  122692	false	 ATTACKER Beersheba   Eli 53  052-8020339
+addPlayer 339 Haim Ben-Lulu 0/04/1991 01/01/2002 BEGINNER  182495	true	 GOAlKEEPER Eilat   Moshe 43  052-8020340
+addPlayer 340 Nitzan Abu-Ahmad 21/04/1993 01/01/2001 PROFESSIONAL  122434	false	 DEFENDER Kiryat_Bialik   Yossi 29  052-8020341
+addPlayer 341 Yossi Mor 10/04/1995 01/01/2000 ADVANCED  197667	false	 DEFENDER Hod_HaSharon   Avi 48  052-8020342
+addPlayer 342 Nidal Naftali 17/04/1997 01/01/2003 INTERMEDIATE  143702	false	 ATTACKER Ariel   Eli 76  052-8020343
+addPlayer 343 Naftali Ben-Gal 22/04/1991 01/01/2000 ADVANCED  177578	false	 GOAlKEEPER Acre   beni 32  052-8020344
+addPlayer 344 Avi Ben-Lulu 10/04/1995 01/01/2003 PROFESSIONAL  185160	true	 ATTACKER Kfar_Saba   Naftali 43  052-8020345
+addPlayer 345 Naftali Sharvit 5/04/1992 01/01/2002 INTERMEDIATE  159788	false	 ATTACKER Eilat   Nitzan 51  052-8020346
+addPlayer 346 Nader Ben-Gal 25/04/1995 01/01/2001 ADVANCED  112481	false	 GOAlKEEPER Ariel   Haim 49  052-8020347
+addPlayer 347 Yossi Mor 11/04/1996 01/01/2007 ADVANCED  163129	false	 DEFENDER Baqa_Jatt   Nidal 21  052-8020348
+addPlayer 348 Haim Naftali 29/04/1992 01/01/2001 BEGINNER  140239	false	 GOAlKEEPER Herzliya   Yossi 13  052-8020349
+addPlayer 349 Nitzan Mor 25/04/1992 01/01/2002 INTERMEDIATE  129371	true	 MIDFIELDER Ashdod   Yossi 19  052-8020350
+addPlayer 350 Nader Yosef 26/04/1992 01/01/2001 PROFESSIONAL  100593	false	 GOAlKEEPER Givatayim   Avi 34  052-8020351
+addPlayer 351 beni Abu-Ahmad 23/04/1998 01/01/2009 ADVANCED  101976	false	 ATTACKER Bnei_Brak   Haim 44  052-8020352
+addPlayer 352 Nidal Ben-Gal 20/04/1995 01/01/2000 BEGINNER  123570	false	 ATTACKER Karmiel   Eli 73  052-8020353
+addPlayer 353 Nitzan Yosef 19/04/1990 01/01/2004 BEGINNER  110460	false	 ATTACKER Jerusalem   Nader 76  052-8020354
+addPlayer 354 beni Yosef 1/04/1998 01/01/2003 ADVANCED  157672	true	 MIDFIELDER Holon   Avi 62  052-8020355
+addPlayer 355 Nidal Abu-Ahmad 26/04/1996 01/01/2006 ADVANCED  104558	false	 MIDFIELDER Ariel   Yossi 82  052-8020356
+addPlayer 356 beni Ben-Lulu 11/04/1996 01/01/2004 PROFESSIONAL  156001	false	 DEFENDER Beersheba   Haim 99  052-8020357
+addPlayer 357 Nader Arkin 1/04/1993 01/01/2002 BEGINNER  158828	false	 ATTACKER Bat_Yam   Eli 67  052-8020358
+addPlayer 358 beni Sharvit 14/04/1992 01/01/2002 PROFESSIONAL  176681	false	 DEFENDER Ariel   Nader 68  052-8020359
+addPlayer 359 Haim Ben-Lulu 6/04/1994 01/01/2000 PROFESSIONAL  156970	true	 ATTACKER Bat_Yam   beni 30  052-8020360
+addPlayer 360 Avi Yosef 6/04/1996 01/01/2000 ADVANCED  183404	false	 DEFENDER Kiryat_Ata   Eli 83  052-8020361
+addPlayer 361 Bar Yosef 6/04/1996 01/01/2010 ADVANCED  -11204	true	 DEFENDER Kiryat_Ata   Efi 83  052-8011261
+addPlayer 362 Bar Yosef 6/01/2020 01/01/2022 ADVANCED  111204	true	 DEFENDER Kiryat_Ata   Avi 80  052-8001261
+// ===============================================================================================================
+// add new receptionist addReceptionist(id, firstName, lastName, birthDate, startWorkingDate, address);
+addReceptionist 000011 Yarden Haim    16/03/1984 01/01/2006  Afula        Vizman   7  053-667667
+addReceptionist 000012 Daniel Levi    10/05/1986 01/01/2008  Beit_Shemesh Alonim   10 053-6565656
+addReceptionist 000013 Mor    Melamed 06/07/1984 01/01/2010  Hadera       Hashmal  1  052-8776111
+addReceptionist 000014 Rina   Shefer  08/11/1982 01/01/2011  Kfar_Saba    Nirim    20 052-8909011
+addReceptionist 000014 Rina   Shefer  08/11/1982 01/01/2011  Kfar_Saba    Nirim    20 052-8909011
+addReceptionist 000015 Rika   Danon   09/12/1983 01/01/2012  Sderot       Haruvim  56 052-8212333
+addReceptionist 000016 Sivan  Hen     01/10/1988 01/01/2012  Ashdod	  Lincoln  23 052-8880880
+addReceptionist -13141 Siman  Gny     01/10/1988 01/01/2012  Ashdod	  Lincoln  23 052-8880880
+// ===============================================================================================================
+// add new customer addCustomer(id, firstName, lastName, birthDate, level, email, favoriteTeamId, address);
+addCustomer 000099991  Gilad   Levi   01/01/1988  BEGINNER     hTTp:\\gilad@Gmail.com   0001   Herzliya         Herzel 		  22 052-8090939
+addCustomer 000099992  Avi     Vizman 02/01/1990  INTERMEDIATE hTTp:\\avi@Hotmail.co.il 0002   Holon 	 	Herzel 		  22 052-8198765
+addCustomer 000099993  Dor     Kam    07/03/1979  INTERMEDIATE hTTp:\\dor@Walla.co.il   0003   Modiin_Illit   	Gidon 	          22 052-8020003
+addCustomer 000099994  Shani   Iluz   05/05/1978  BEGINNER     hTTp:\\shani@Walla.co.il 0004   Ofakim 	 	Ezra           	  66 052-8200277
+addCustomer 000099995  Gabi    Avni   08/01/1978  BEGINNER     hTTp:\\gabi@Walla.co.il  0005   Ramat_HaSharon 	Robert-Sold    	  11 052-8300200
+addCustomer 000099996  Lea     Arnon  09/11/1978  BEGINNER     hTTp:\\arnon@Walla.co.il 0006   Kiryat_Yam     	Elisheva 	  66 052-8011011
+addCustomer 000099997  Elad    Hen    08/11/1976  BEGINNER     hTTp:\\elad@Gmail.com    0007   Nahariya       	Agahaton 	  75 052-8030003
+addCustomer 000099998  Shai    Alush  09/11/1976  INTERMEDIATE hTTp:\\shai@Gmail.com    0008   Haifa          	Moria 	          36 052-8108880
+addCustomer 000099999  Ben     Kim    10/11/1979  BEGINNER     hTTp:\\ben@Gmail.com     0009   Kafr_Qasim     	Golan 	          71 052-8902229
+addCustomer 000099910  Talya   Amar   19/09/1983  BEGINNER     hTTp:\\talya@Gmail.com   0010   Nahariya       	Fifth-evn         60 052-8222044
+addCustomer 000099911  Viki    Shefer 18/09/1988  BEGINNER     hTTp:\\viki@Gmail.com    0011   Ofakim 		Biana 	          4 052-8000555
+addCustomer 000099912  Natali  Hemo   15/11/1990  BEGINNER     hTTp:\\natali@Gmail.com  0012   Maale_Adumim   	Herzel 	  	  29 052-8999100
+addCustomer 000099913  Shaked  Lev    14/02/1979  INTERMEDIATE hTTp:\\shaked@Gmail.com  0013   Modiin_Illit   	Gidon 	          49 052-8120444
+addCustomer 000099914  Dan     Himan  25/01/1978  BEGINNER     hTTp:\\dan11@Gmail.com   0014   Ofakim         	Ezra  	          27 052-8772002
+addCustomer 000099915  Din     Gal    26/11/1978  BEGINNER     hTTp:\\din@Gmail.com     0014   Ramat_HaSharon 	Robert-Sold       21 052-8511114
+addCustomer 000099915  Din     Gal    26/11/1978  BEGINNER     hTTp:\\din@Gmail.com     0013   Ramat_HaSharon 	Robert-Sold       21 052-8511114
+addCustomer 000099916  Don     Roz    27/10/1978  BEGINNER     hTTp:\\don@Gmail.com     0012   Kiryat_Yam     	Elisheva 	  27 052-8300355
+addCustomer 000099917  Oshri   Mimon  28/04/1976  ADVANCED     hTTp:\\oshri@Gmail.com   0011   Nahariya       	Agahaton 	  24 052-8100408
+addCustomer 000099918  Zvika   Ronen  22/06/1976  ADVANCED     hTTp:\\zvika@Gmail.com   0010   Haifa          	Moria 	          61 052-8400250
+addCustomer 000099919  Yossi   Shabat 20/08/1979  BEGINNER     hTTp:\\yossi@Gmail.com   0001   Kafr_Qasim     	Golan 	          13 052-8131313
+addCustomer 000099920  Meira   Levi   24/09/1983  BEGINNER     hTTp:\\meira@Gmail.com   0001   Modiin_Illit   	Fifth-evn         18 052-8455122
+addCustomer 00009911   Meir    Lev    14/02/1984  BEGINNER     hTTp:\\meir@Gmail.com    0002   Haifa          	Moria             18 052-8455122
+addCustomer 000099921  Don     Roz    27/10/1978  BEGINNER     hTTp:\\don@Gmail.com     0003   Kiryat_Yam     	Elisheva 	  27 052-8300355
+// ===============================================================================================================
+// add new coach to team addCoachToTeam(coachId, teamId);
+addCoachToTeam  000001 0001   
+addCoachToTeam  000002 0002   
+addCoachToTeam  000003 0003   
+addCoachToTeam  000004 0004
+addCoachToTeam  000005 0015   
+addCoachToTeam  000005 0005   
+addCoachToTeam  000006 0006   
+addCoachToTeam  000007 0007   
+addCoachToTeam  000008 0008   
+addCoachToTeam  000009 0009   
+addCoachToTeam  000010 0010   
+addCoachToTeam  000011 0011   
+addCoachToTeam  000012 0012   
+addCoachToTeam  000006 0013
+addCoachToTeam  000013 0013    
+addCoachToTeam  000014 0014    
+// ===============================================================================================================
+// add new player to team addPlayerToTeam(playerId, teamId);
+addPlayerToTeam  000331 0001   
+addPlayerToTeam  000332 0001   
+addPlayerToTeam  000333 0003   
+addPlayerToTeam  000334 0004   
+addPlayerToTeam  000335 0005   
+addPlayerToTeam  000336 0006   
+addPlayerToTeam  000337 0007   
+addPlayerToTeam  000336 0008   
+addPlayerToTeam  000448 0009   
+addPlayerToTeam  000339 0010   
+addPlayerToTeam  000340 0021   
+addPlayerToTeam  000350 0012   
+addPlayerToTeam  000339 0013   
+addPlayerToTeam  000348 0411
+addPlayerToTeam  000301 0001
+addPlayerToTeam  000302 0001
+addPlayerToTeam  000303 0001
+addPlayerToTeam  000304 0002
+addPlayerToTeam  000305 0002
+addPlayerToTeam  000306 0002
+addPlayerToTeam  000307 0002
+addPlayerToTeam  000308 0002
+addPlayerToTeam  000309 0003
+addPlayerToTeam  000310 0003
+addPlayerToTeam  000311 0003
+addPlayerToTeam  000312 0003
+addPlayerToTeam  000313 0003
+addPlayerToTeam  000314 0004
+addPlayerToTeam  000315 0004
+addPlayerToTeam  000316 0004
+addPlayerToTeam  000317 0004
+addPlayerToTeam  000318 0004
+addPlayerToTeam  000319 0005
+addPlayerToTeam  000320 0005
+addPlayerToTeam  000321 0005
+addPlayerToTeam  000322 0005
+addPlayerToTeam  000323 0005
+addPlayerToTeam  000324 0007
+addPlayerToTeam  000325 0007
+addPlayerToTeam  000326 0007
+addPlayerToTeam  000327 0007
+addPlayerToTeam  000328 0007
+addPlayerToTeam  000329 0008
+addPlayerToTeam  000330 0008
+addPlayerToTeam  000331 0008
+addPlayerToTeam  000332 0008
+addPlayerToTeam  000333 0008
+addPlayerToTeam  000334 0009
+addPlayerToTeam  000335 0009
+addPlayerToTeam  000336 0009
+addPlayerToTeam  000337 0009
+addPlayerToTeam  000338 0009
+addPlayerToTeam  000339 0001
+addPlayerToTeam  000340 0010
+addPlayerToTeam  000341 0014
+addPlayerToTeam  000342 0014
+addPlayerToTeam  000343 0014
+addPlayerToTeam  000344 0011
+addPlayerToTeam  000345 0011
+addPlayerToTeam  000346 0011
+addPlayerToTeam  000347 0011
+addPlayerToTeam  000348 0011
+addPlayerToTeam  000349 0012
+addPlayerToTeam  000350 0012
+addPlayerToTeam  000351 0012
+addPlayerToTeam  000352 0012
+addPlayerToTeam  000353 0012
+addPlayerToTeam  000354 0013
+addPlayerToTeam  000355 0013
+addPlayerToTeam  000356 0013
+addPlayerToTeam  000357 0013
+addPlayerToTeam  000358 0013
+addPlayerToTeam  000359 0014
+addPlayerToTeam  000360 0014   
+// ===============================================================================================================
+// add new player to team addPlayerToTeam(playerId, teamId);
+addPlayerToTeamFirstPlayers 000301 0001   
+addPlayerToTeamFirstPlayers 000303 0001   
+addPlayerToTeamFirstPlayers 000309 0003   
+addPlayerToTeamFirstPlayers 000310 0003
+addPlayerToTeamFirstPlayers 000316 0004  
+addPlayerToTeamFirstPlayers 000317 0004   
+addPlayerToTeamFirstPlayers 000319 0005  
+addPlayerToTeamFirstPlayers 000320 0005   
+addPlayerToTeamFirstPlayers 000334 0006   
+addPlayerToTeamFirstPlayers 000335 0007   
+// ===============================================================================================================
+// add receptionist to stadium addReceptionistToStadium(receptionistId, stadiumId);
+addReceptionistToStadium  000011  0001   
+addReceptionistToStadium  000012  0002   
+addReceptionistToStadium  000013  0003  
+addReceptionistToStadium  000014  0004   
+addReceptionistToStadium  000015  0005   
+addReceptionistToStadium  314159  0006   
+addReceptionistToStadium  000016  0007
+addReceptionistToStadium  000016  0001   
+// ===============================================================================================================
+// add new Subscription to customer addSubscriptionToCustomer(id, customerId, receptionistId, period, startDate);
+addSubscriptionToCustomer  000001   000099991 000011  YEAR     20/01/2018
+addSubscriptionToCustomer  000002   000099992 000016  YEAR     22/02/2018
+addSubscriptionToCustomer  000003   000099993 000014  YEAR     20/01/2018
+addSubscriptionToCustomer  000004   000099994 000016  HALF     19/01/2018
+addSubscriptionToCustomer  000006   000099994 000015  QUARTER  22/01/2018
+addSubscriptionToCustomer  000007   000099911 000013  HALF     22/01/2018
+addSubscriptionToCustomer  000008   000099912 000014  YEAR     22/01/2018
+addSubscriptionToCustomer  000009   000099913 000011  QUARTER  22/01/2018
+addSubscriptionToCustomer  000010   000099911 000013  HALF     22/01/2018
+addSubscriptionToCustomer  000011   000099912 000013  YEAR     22/01/2018
+addSubscriptionToCustomer  000012   000099913 000011  MONTH    22/01/2018
+addSubscriptionToCustomer  000013   000099991 000015  QUARTER  01/02/2018
+addSubscriptionToCustomer  000014   000099992 000015  HALF     01/02/2018
+addSubscriptionToCustomer  000015   000099993 000015  YEAR     01/02/2018
+addSubscriptionToCustomer  000016   000099994 000015  MONTH    01/03/2018
+addSubscriptionToCustomer  000017   000099922 000014  YEAR     22/01/2018
+addSubscriptionToCustomer  000019   000099914 000015  QUARTER  22/02/2018
+addSubscriptionToCustomer  000019   314159265 000015  QUARTER  22/02/2018
+addSubscriptionToCustomer  000011   000099991 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  000012   000099991 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  000013   000099991 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  000014   000099991 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  000021   000099992 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  000022   000099992 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  000023   000099992 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  000024   000099992 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  000031   000099993 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  000032   000099993 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  000033   000099993 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  000034   000099993 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  000041   000099994 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  000042   000099994 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  000043   000099994 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  000044   000099994 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  000051   000099990 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  000052   000099990 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  000053   000099990 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  000054   000099990 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  000061   000099991 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  000062   000099991 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  000063   000099991 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  000064   000099991 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  000071   000099992 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  000072   000099992 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  000073   000099992 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  000074   000099992 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  000081   000099993 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  000082   000099993 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  000083   000099993 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  000084   000099993 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  000091   000099994 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  000092   000099994 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  000093   000099994 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  000094   000099994 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  0000101   000099990 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  0000102   000099990 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  0000103   000099990 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  0000104   000099990 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  0000111   000099991 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  0000112   000099991 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  0000113   000099991 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  0000114   000099991 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  0000121   000099992 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  0000122   000099992 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  0000123   000099992 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  0000124   000099992 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  0000131   000099993 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  0000132   000099993 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  0000133   000099993 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  0000134   000099993 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  0000141   000099994 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  0000142   000099994 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  0000143   000099994 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  0000144   000099994 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  0000151   000099990 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  0000152   000099990 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  0000153   000099990 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  0000154   000099990 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  0000161   000099991 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  0000162   000099991 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  0000163   000099991 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  0000164   000099991 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  0000171   000099992 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  0000172   000099992 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  0000173   000099992 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  0000174   000099992 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  0000181   000099993 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  0000182   000099993 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  0000183   000099993 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  0000184   000099993 000014  QUARTER  24/03/2018
+addSubscriptionToCustomer  0000191   000099994 000011  QUARTER  21/03/2018
+addSubscriptionToCustomer  0000192   000099994 000012  QUARTER  22/03/2018
+addSubscriptionToCustomer  0000193   000099994 000013  QUARTER  23/03/2018
+addSubscriptionToCustomer  0000194   000099994 000014  QUARTER  24/03/2018
+// ===============================================================================================================
+// add new match addMatch(id, dateTime, extraTime, homeTeamId, awayTeamId, homeTeamScore, awayTeamScore);
+addMatch  0000001  02/03/2018;12:00  4 0001   0001   1 0
+addMatch  0000002  03/03/2018;14:00  4 0002   0003   2 1
+addMatch  0000003  04/03/2018;12:00  5 0003   0005   5 1
+addMatch  0000004  05/03/2018;12:00  3 0004   0003   1 2
+addMatch  0000005  10/03/2018;12:00  4 0005   0001   2 3
+addMatch  0000006  02/03/2018;14:00  5 0006   0002   1 2 
+addMatch  0000007  02/03/2018;14:00  5 0007   0003   3 1
+addMatch  0000010  08/03/2018;14:00  3 0008   0001   1 2
+addMatch  0000012  07/03/2018;14:00  3 0009   0011   0 1
+addMatch  0000015  06/03/2018;14:00  2 0010   0014   1 3
+addMatch  0000014  19/03/2018;12:00  4 0011   0004   3 3
+addMatch  0000015  02/03/2018;14:00  5 0012   0005   4 -1
+addMatch  0000016  02/03/2018;17:00  5 0013   0011   2 0
+addMatch  0000017  08/03/2018;14:00  3 0014   0007   0 1
+addMatch  0000020  07/03/2018;14:00  3 0015   0009   3 1
+addMatch  0000018  07/03/2018;14:00  3 0002   0004   2 1
+addMatch  0000019  03/03/2018;13:51  3 0003   0005   4 2
+addMatch  0000021  02/03/2018;12:00  3 0004   0001   3 3
+// ===============================================================================================================
+// add customer to match addCustomerToMatch(customerId, matchId); 
+addCustomerToMatch  000099991 0000002
+addCustomerToMatch  000099992 0000002
+addCustomerToMatch  000099993 0000002
+addCustomerToMatch  000099994 0000002
+addCustomerToMatch  000099991 0000003
+addCustomerToMatch  000099992 0000003
+addCustomerToMatch  000099993 0000003
+addCustomerToMatch  000099994 0000003
+addCustomerToMatch  000099991 0000004
+addCustomerToMatch  000099992 0000004
+addCustomerToMatch  000099993 0000004
+addCustomerToMatch  000099994 0000004
+addCustomerToMatch  000099991 0000005
+addCustomerToMatch  000099992 0000005
+addCustomerToMatch  000099993 0000005
+addCustomerToMatch  000099994 0000005
+addCustomerToMatch  000099991 0000007
+addCustomerToMatch  000099992 0000007
+addCustomerToMatch  000099993 0000007
+addCustomerToMatch  000099994 0000007
+addCustomerToMatch  000099991 00000012
+addCustomerToMatch  000099992 00000012
+addCustomerToMatch  000099993 00000012
+addCustomerToMatch  000099994 00000012
+addCustomerToMatch  000099991 00000014
+addCustomerToMatch  000099992 00000014
+addCustomerToMatch  000099993 00000014
+addCustomerToMatch  000099994 00000014
+addCustomerToMatch  000099991 00000016
+addCustomerToMatch  000099992 00000016
+addCustomerToMatch  000099993 00000016
+addCustomerToMatch  000099994 00000016
+addCustomerToMatch  000099991 00000018
+addCustomerToMatch  000099992 00000018
+addCustomerToMatch  000099993 00000018
+addCustomerToMatch  000099994 00000018
+addCustomerToMatch  000099911 0000004
+addCustomerToMatch  000099912 0000004
+addCustomerToMatch  000099913 0000004
+addCustomerToMatch  000099914 0000004
+addCustomerToMatch  000099911 0000005
+addCustomerToMatch  000099912 0000005
+addCustomerToMatch  000099913 0000005
+addCustomerToMatch  000099914 0000005
+addCustomerToMatch  000099911 0000007
+addCustomerToMatch  000099912 0000007
+addCustomerToMatch  000099913 0000007
+addCustomerToMatch  000099914 0000007
+addCustomerToMatch  000099911 00000012
+addCustomerToMatch  000099912 00000012
+addCustomerToMatch  000099913 00000012
+addCustomerToMatch  000099914 00000012
+addCustomerToMatch  000099911 00000014
+addCustomerToMatch  000099912 00000014
+addCustomerToMatch  000099913 00000014
+addCustomerToMatch  000099914 00000014
+addCustomerToMatch  000099911 00000016
+addCustomerToMatch  000099912 00000016
+addCustomerToMatch  000099913 00000016
+addCustomerToMatch  000099914 00000016
+// ===============================================================================================================
+// remove subscription removeSubscription(subscriptionId)
+removeSubscription 000007
+removeSubscription 000008
+removeSubscription 000009
+removeSubscription 000020
+// ===============================================================================================================
+// add trophy addTrophy(E_Trophy trophy, T owner, Date trophyWinningDate)
+addTrophy STADIUM_OF_THE_YEAR 000001 01/03/2018;12:00
+addTrophy TEAM_OF_THE_YEAR    000002 04/03/2018;12:00
+addTrophy STADIUM_OF_THE_YEAR 000009 05/03/2018;12:00
+addTrophy TEAM_OF_THE_YEAR    000007 01/03/2018;12:00
+addTrophy COACH_OF_THE_YEAR   000002 04/03/2018;12:00
+addTrophy PLAYER_OF_THE_YEAR  000224 05/03/2018;12:00
+addTrophy COACH_OF_THE_YEAR   000001 03/03/2018;12:00
+addTrophy PLAYER_OF_THE_YEAR  000330 02/03/2018;12:00
+addTrophy PLAYER_OF_THE_YEAR  000331 05/03/2017;12:00
+addTrophy PLAYER_OF_THE_YEAR  000332 05/03/2016;12:00
+addTrophy PLAYER_OF_THE_YEAR  000333 05/03/2015;12:00
+addTrophy PLAYER_OF_THE_YEAR  000334 05/03/2014;12:00
+addTrophy PLAYER_OF_THE_YEAR  000332 05/03/2013;12:00
+addTrophy PLAYER_OF_THE_YEAR  000336 05/03/1999;12:00
+addTrophy PLAYER_OF_THE_YEAR  000332 05/03/2011;12:00
+addTrophy PLAYER_OF_THE_YEAR  000338 05/03/2010;12:00
+addTrophy PLAYER_OF_THE_YEAR  000339 05/03/2009;12:00
+addTrophy PLAYER_OF_THE_YEAR  000340 05/03/2008;12:00
+addTrophy PLAYER_OF_THE_YEAR  000329 05/03/2007;12:00
+addTrophy PLAYER_OF_THE_YEAR  000328 05/03/2006;12:00
+addTrophy PLAYER_OF_THE_YEAR  000327 05/03/2005;12:00
+addTrophy PLAYER_OF_THE_YEAR  000326 05/03/2004;12:00
+// ===============================================================================================================
+printDatabase
+// ===============================================================================================================
+getSuperPlayerMaker 0001
+// ===============================================================================================================
+getAllSuperPlayerMakers
+// ===============================================================================================================
+getTheMostPopularPosition
+// ===============================================================================================================
+getTheMostFavoredTeam
+// ===============================================================================================================
+getTheMostActiveCity 0001
+// ===============================================================================================================
+getEntityWithMostTrophies
+// ===============================================================================================================
+getTeamWithLargestHomeCrowd
+// ===============================================================================================================
+getCustomersStadium1XORStadium2 0002 0003
+// ===============================================================================================================
+getFirstPlayersOfBestHomeTeam
